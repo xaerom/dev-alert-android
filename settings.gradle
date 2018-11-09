@@ -1,1 +1,1 @@
-include ':app', ':dev-alert'
+include ':dev-alert'
